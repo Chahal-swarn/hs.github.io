@@ -2,7 +2,6 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>MY PORTFOLIO</title>
         <link rel="stylesheet" href="styles.css">
     </head>
     <body>
@@ -12,11 +11,7 @@
             <li><a href="#about">ABOUT</a></li>
 <li><a href="#projects">PROJECTS</a></li>
  <li><a href="#contact">CONTACT</a><li>
- </ul>
-</nav>
-</header>
-
-<section>
+ <section>
     <section id="about">
         <h2>ABOUT ME</h2>
         <p>I AM A WEB DEVELOPER YOU ARE WATCHING MY PORTFOLIO</p>
