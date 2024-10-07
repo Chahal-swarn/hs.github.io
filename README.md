@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -10,10 +9,7 @@
         <header>
             <h1>SWARNJEET CHAHAL</h1>
             <img src="C:\Users\sony\Desktop\sk.html\IMG-20170716-WA0035.jpg" alt="MY PORTFOLIO">
-            <NAV>
-                <ul>
-
-<li><a href="#about">ABOUT</a></li>
+            <li><a href="#about">ABOUT</a></li>
 <li><a href="#projects">PROJECTS</a></li>
  <li><a href="#contact">CONTACT</a><li>
  </ul>
@@ -63,6 +59,5 @@
 </footer>
 
 <script src="script.js"></script>
-</body>
-    </html>
+
 
